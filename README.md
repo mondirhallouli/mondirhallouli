@@ -1,18 +1,18 @@
 ### Hi there, I'm Mondir - here's my [Portfolio][website] 👋 
 
-[![Website](https://img.shields.io/website?label=mh-work.pages.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mh-work.pages.dev/)
+[![Website](https://img.shields.io/website?label=mondirhallouli.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.mondirhallouli.com/)
 
 ## I'm a Developer, and learner!!
 
-- 🔭 I just launched my latest project: [React and Redux todo app][project]!
-- 🌱 I’m currently learning React and Redux
+- 🔭 This is one of my latest projects: [React and Redux todo app][project]!
+- 🌱 I’m currently Mastering Javascript through projects and algorithms, while learning React
 - 👯 I’m open to jobs and creative projects
-- 🥅 2020 Goals: Find a creative organization to work with and develope my skills
+- 🥅 2022 Goals: Find a creative organization to work with and develope my skills
 - ⚡ Favorit quote: *"Only the disciplined ones are free in life, if you are not, you are a slave to your moods and passions"*
 
 ### Connect with me:
 
-[<img align="left" alt="mh-work.pages.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mondirhallouli.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mondir hallouli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
@@ -31,6 +31,6 @@
 <br />
 <br />
 
-[website]: https://mh-work.pages.dev/
-[linkedin]: https://www.linkedin.com/in/mondir-halloui-833064147/
-[project]: https://react-redux-todo.pages.dev/
+[website]: https://www.mondirhallouli.com/
+[linkedin]: https://www.linkedin.com/in/mondir-hallouli/
+[project]: https://devtask.mondirhallouli.com/
